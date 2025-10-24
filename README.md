@@ -8,7 +8,7 @@
 
 ## 💜 What is Mind Matters?
 
-Mind Matters is a simple, friendly web app built to support mental well‑being through learning, reflection, and gentle habit building.  
+Lets Support is a simple, friendly web app built to support mental well‑being through learning, reflection, and gentle habit building.  
 
 The app is built with React and focuses on approachable content, interactive learning, and personal reflection.  
 
@@ -40,7 +40,7 @@ Contributions from many people can make this project reach and help more users.
 
 ## 🔭 Vision
 
-We want Mind Matters to grow into a community resource with:
+We want Lets Support to grow into a community resource with:
 
 - ✨ More topics and diverse perspectives.  
 
@@ -197,7 +197,7 @@ If you find a bug or have an idea, please open an issue.
 
 ## ⭐ Show your support
 
-If Mind Matters helps you or you believe in its vision:
+If Lets Support helps you or you believe in its vision:
 
 - Star the repo.  
 - Fork and contribute.  
