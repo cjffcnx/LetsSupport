@@ -1,4 +1,4 @@
-# 🧠 Mind Matters — A Journey to Mental Well‑Being
+# 🧠 Lets Support — A Journey to Mental Well‑Being
 
 ![Mental Health](https://img.shields.io/badge/Mental%20Health-Support-purple)  
 ![React](https://img.shields.io/badge/React-19.1.1-blue)  
@@ -6,7 +6,7 @@
 
 ---
 
-## 💜 What is Mind Matters?
+## 💜 What is Lets Support?
 
 Lets Support is a simple, friendly web app built to support mental well‑being through learning, reflection, and gentle habit building.  
 
